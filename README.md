@@ -16,11 +16,11 @@ Este código en primer lugar importa la librería "random" para poder aleatoriza
 Crea el diccionario de las cartas, crea una lista a partir de la librería creada. Después selecciona 4 cartas aleatorias, 2 para la banca y 2 para el jugador, printeando las cartas junto a la suma de los valores de las mimas.
 
 <br>
-<img height="780" src="./Shu-Ha-Ri.drawio.png" />
+<img height="780" src="./Shu-Ha-Ri.drawio (1).png" />
 <br>
 
 
-Para verlo más claro pincha aquí: [Flowchart](./Shu-Ha-Ri.drawio.png)
+Para verlo más claro pincha aquí: [Flowchart](./Shu-Ha-Ri.drawio (1).png)
 
 
 ```
