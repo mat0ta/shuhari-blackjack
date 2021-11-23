@@ -13,7 +13,7 @@ El código que han empleado los compañeros del otro grupo es el siguiente el cu
 
 Este código en primer lugar importa la librería "random" para poder aleatorizar parte del código.
 
-Tiene el diccionario de las cartas, crea una lista a partir de la librería de las cartas, después da 2 cartas aleatorias a la banca y al jugador, las printea y suma los valores de cada carta.
+Crea el diccionario de las cartas, crea una lista a partir de la librería creada. Después selecciona 4 cartas aleatorias, 2 para la banca y 2 para el jugador, printeando las cartas junto a la suma de los valores de las mimas.
 
 <br>
 <img height="780" src="https://github.com/mat0ta/shuhari-blackjack/blob/main/Shu-Ha-Ri.drawio.png" />
@@ -61,7 +61,8 @@ print("La banca tiene las cartas: {} {} , y su puntuación es {}.".format(main_b
                                                           score_banca))
 
 ```
-
+---
 Para mejorar el código presentado añadidríamos varias funciones:
-- Una función para que el jugador puedo jugar al Blackjack
+- Una función para que el jugador pueda jugar al Blackjack
 - Añadiríamos una clase en la que tener todo el código organizado
+- Cada vez que se de una carta, quitar esa misma carta de la lista para que no se repita
