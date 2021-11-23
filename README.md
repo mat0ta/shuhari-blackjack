@@ -1,7 +1,7 @@
 # shuhari-blackjack
-Este trabajo lo hemos hecho tanto Martín como Rubén como Diego
-[Martín](https://github.com/mat0ta)
-[Rubén](https://github.com/rnoguer22)
+Este trabajo lo hemos hecho:
+[Martín](https://github.com/mat0ta),
+[Rubén](https://github.com/rnoguer22) y 
 [Diego](https://github.com/Diegodesantos1)
 
 El link del repositorio es este: [Repositorio](https://github.com/mat0ta/shuhari-blackjack)
@@ -59,3 +59,9 @@ score_banca = sum(cartas[carta] for carta in main_banca)
 print("La banca tiene las cartas: {} {} , y su puntuación es {}.".format(main_banca[0],
                                                           main_banca[1],
                                                           score_banca))
+
+```
+
+Para mejorar el código presentado añadidríamos varias funciones:
+- Una función para que el jugador puedo jugar al Blackjack
+- Añadiríamos una clase en la que tener todo el código organizado
