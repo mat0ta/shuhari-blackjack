@@ -1,4 +1,4 @@
-<h1 style='color=red'> Shu-Ha-Ri del juego de Blackjack</hi>
+<h1 style='color=red'> Shu-Ha-Ri del juego de Blackjack</h1>
 Este trabajo lo hemos hecho:
 [Martín](https://github.com/mat0ta),
 [Rubén](https://github.com/rnoguer22) y 
