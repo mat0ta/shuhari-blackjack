@@ -20,7 +20,7 @@ Crea el diccionario de las cartas, crea una lista a partir de la librería cread
 <br>
 
 
-Para verlo más claro pincha aquí: [Flowchart]('./Shu-Ha-Ri.drawio (1).png')
+Para verlo más claro pincha aquí: [Flowchart](https://github.com/mat0ta/shuhari-blackjack/blob/main/Shu-Ha-Ri.drawio%20(1).png)
 
 
 ```
