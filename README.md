@@ -1,4 +1,4 @@
-# shuhari-blackjack
+<h1 style='color=red'> Shu-Ha-Ri del juego de Blackjack</hi>
 Este trabajo lo hemos hecho:
 [Martín](https://github.com/mat0ta),
 [Rubén](https://github.com/rnoguer22) y 
@@ -20,7 +20,7 @@ Crea el diccionario de las cartas, crea una lista a partir de la librería cread
 <br>
 
 
-Para verlo más claro pincha aquí: [Flowchart](./Shu-Ha-Ri.drawio (1).png)
+Para verlo más claro pincha aquí: [Flowchart]('./Shu-Ha-Ri.drawio (1).png')
 
 
 ```
